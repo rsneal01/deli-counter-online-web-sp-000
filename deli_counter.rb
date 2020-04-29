@@ -9,7 +9,7 @@ def line(deli)
     deli.each.with_index(1) do |customer, index|
       current_line << " #{index}. #{customer}"
     end
-    current_line
+    puts current_line
   end
 end
 
