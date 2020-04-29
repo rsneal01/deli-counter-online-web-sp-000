@@ -24,7 +24,7 @@ def now_serving(deli)
   elsif deli.length > 0
     deli.shift
   end
-  deli
+  puts "Currently serving #{deli[0]}"
 end
 
 
