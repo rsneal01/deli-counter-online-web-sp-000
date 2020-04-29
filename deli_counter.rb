@@ -28,11 +28,3 @@ def now_serving(deli)
 end
 
 
-# index = deli.index(name)
-# deli.each do |customer|
-#   puts "The line is currently: #{index + 1}. #{customer}"
-
-
-#{index + 1}
-  #     puts "The line is currently: 1. #{deli[0]} 2. #{deli[1]} 3. #{deli[2]} 4. #{deli[3]} 5. #{deli[4]} 6. #{deli[5]} 7. #{deli[6]} 8. #{deli[7]} 9. #{deli[8]} 10. #{deli[9]}"  
-  # end
